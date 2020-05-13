@@ -22,3 +22,6 @@ $ npm run dev
 $ cd client
 $ npm start
 ```
+
+
+On the Client the code has been transformed into hooks. with comments.
